@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is John Hargreaves, but I go by Jack. I am currently a student at SUNY Brockport with a major in Computer Science, with a focus in Advanced Computing. I also have a minor in Cybersecurity. I plan to graduate in May 2026. As of right now, the plan is to attend grad school to further my education and get my Masters Degree. I am currently working on small personal projects as well as a larger group project. If you would like to contact me, my email is john.hargreaves0104@gmail.com. Have a nice day!
 <!--
 **Jack-Hargreaves0104/Jack-Hargreaves0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
